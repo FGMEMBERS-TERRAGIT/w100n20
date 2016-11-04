@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ndb.ac -97.509042 25.983633 6.79 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.558889 25.941944 -128.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.553889 25.948889 -132.48 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.541667 25.897222 -114.69 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.539167 25.959444 -131.18 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.536667 25.934722 -139.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.529167 25.919722 -101.11 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.520389 25.964 -41.78 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.52 25.999528 -72.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.5195 25.964222 -43.7 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.519167 25.879167 -129.35 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.516389 25.954722 -151.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.512778 25.975278 -133.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.510972 25.98275 -60.83 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.51 25.931667 -133.16 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.508056 25.894722 -64.71 180
+OBJECT_SHARED Models/Airport/marker.ac -97.509072 25.9836 6.82 180
