@@ -47,3 +47,18 @@ OBJECT_SHARED Models/Power/generic_pylon_200m.ac -94.854444 29.268333 1 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -94.8525 29.260833 0.99 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -94.854167 29.263611 1 180
 OBJECT_SHARED Models/Airport/localizer.xml -94.853569 29.256947 0.97 230.26
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office16x4n.ac -94.85674 29.26371 1.01 268.02
+OBJECT_SHARED Models/lib/SmHangar.ac -94.85557 29.26750 1.02 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -94.85635 29.26340 1.01 181.73
+OBJECT_SHARED Models/lib/SmHangar.ac -94.85595 29.26280 1.00 1.04
+OBJECT_SHARED Models/lib/MedHangar.ac -94.85404 29.27091 1.00 284.29
+OBJECT_SHARED Models/lib/MedHangar.ac -94.85553 29.27057 1.01 359.36
+OBJECT_SHARED Models/lib/fboModern1.ac -94.85551 29.26972 1.02 358.935
+OBJECT_SHARED Models/lib/HorizTanks2.ac -94.85608 29.26446 1.01 316.69
+OBJECT_SHARED Models/lib/SmHangar.ac -94.85593 29.26455 1.01 316.91
+OBJECT_SHARED Models/lib/SmHangar.ac -94.85620 29.26431 1.01 312.89
+OBJECT_SHARED Models/lib/cube16x10.ac -94.85670 29.26420 1.01 90
+# END dsf2stg
