@@ -64,3 +64,15 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -97.424167 27.814444 -423
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -97.421389 27.8125 -399.42 180
 OBJECT_SHARED Models/Airport/localizer.xml -97.496375 27.782675 11.64 89.12
 OBJECT_SHARED Models/Airport/localizer.xml -97.495156 27.760317 10.74 225.96
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77654 -0.13 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49995 27.77704 -0.12 0
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49941 27.77422 -0.19 180
+OBJECT_SHARED Models/lib/lamp10m.xml -97.49942 27.77365 -0.20 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77339 -0.21 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77392 -0.20 180
+OBJECT_SHARED Models/lib/MedHangar.ac -97.49939 27.77446 -0.19 180
+OBJECT_SHARED Models/lib/FireStationLg.ac -97.49941 27.76863 -0.26 90
+# END dsf2stg
