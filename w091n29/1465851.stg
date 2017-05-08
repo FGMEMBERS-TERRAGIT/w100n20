@@ -166,3 +166,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.1366772 29.9505507 1.2 207.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.1366257 29.950402 1.19 207.41
 OBJECT_STATIC Super_Dome.ac -90.08128 29.95103 0.99 66.5
 OBJECT_STATIC NOLA_Arena.ac -90.08207 29.94903 1 50
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24799 29.99777 1.01 331.16
+OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24790 29.99809 1.00 0
+# END dsf2stg
