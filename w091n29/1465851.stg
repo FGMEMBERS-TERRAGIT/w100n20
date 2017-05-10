@@ -125,7 +125,6 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -90.076667 29.95 -388.3
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -90.076111 29.949167 -372.21 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -90.073889 29.950833 -351.18 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -90.071667 29.951944 -394.76 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -90.063333 29.948889 -343.49 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -90.090556 29.96 -417.31 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -90.079167 29.953056 -411.23 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -90.078889 29.950556 -372.52 180
@@ -172,3 +171,4 @@ OBJECT_STATIC NOLA_Arena.ac -90.08207 29.94903 1 50
 OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24799 29.99777 1.01 331.16
 OBJECT_SHARED Models/lib/rw-guard-lights.ac -90.24790 29.99809 1.00 0
 # END dsf2stg
+OBJECT_STATIC NOLA_WTC.ac -90.063355 29.948976 3.81 91.7
