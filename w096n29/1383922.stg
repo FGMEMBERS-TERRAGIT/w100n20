@@ -111,4 +111,4 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -95.363333 29.756667 -2
 OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -95.361667 29.759444 -373.53 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -95.361111 29.751944 -386.33 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.308611 29.751944 -427.01 180
-OBJECT_SHARED Models/Power/generic_pylon_200m.ac -95.480833 29.865 -1000 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -95.480833 29.865 25.14 180
