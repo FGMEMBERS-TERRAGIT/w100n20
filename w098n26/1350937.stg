@@ -5,3 +5,16 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -97.639444 26.498889 -98.29
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.611389 26.475 -88.14 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.607389 26.482778 -98.4 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.600917 26.489167 -67.91 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -97.68801 26.48241 0.00 90
+OBJECT_SHARED Models/lib/dGreenhse.ac -97.68668 26.48214 6.09 36.1195
+OBJECT_SHARED Models/lib/farm19x12.ac -97.68680 26.48235 6.23 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.68793 26.48271 6.17 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.68692 26.48213 5.97 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.68690 26.48227 6.21 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -97.68648 26.48252 6.15 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.68759 26.48240 6.14 0
+OBJECT_SHARED Models/lib/deciduous-tree3.xml -97.68677 26.48209 6.12 0
+# END dsf2stg

@@ -6,3 +6,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -99.204472 28.406083 41.78 
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.126389 28.403333 47.79 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -99.118542 28.462011 157.75 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -99.236667 28.435556 -342.9 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -99.21812 28.45493 0.00 135.984
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -99.21838 28.45472 138.20 135
+# END dsf2stg

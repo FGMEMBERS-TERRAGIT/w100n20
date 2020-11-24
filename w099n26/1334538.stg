@@ -14,3 +14,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -98.258889 26.127778 -119.2
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.258389 26.127083 -115.94 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.256972 26.21175 -130.72 180
 OBJECT_SHARED Models/Airport/marker.ac -98.251933 26.189075 30 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -98.40379 26.20619 0.00 81.95
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -98.40328 26.20565 34.12 350
+OBJECT_SHARED Models/lib/industrial13x24.ac -98.40332 26.20555 34.20 350
+# END dsf2stg

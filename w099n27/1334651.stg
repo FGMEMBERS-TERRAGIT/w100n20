@@ -4,3 +4,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -98.140556 27.882222 29.56 
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.098861 27.898889 -29.3 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -98.042614 27.895322 70.02 180
 OBJECT_SHARED Models/Airport/localizer.xml -98.030464 27.888439 65.54 224.8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac -98.04894 27.89953 0.00 135
+# END dsf2stg

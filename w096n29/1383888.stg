@@ -17,3 +17,13 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.767014 29.320187 20.05 136.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.76294 29.316753 19.7 136.22
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.762096 29.316054 19.63 136.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.750226 29.306293 20.8 136.68
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -95.88497 29.27165 0.00 40.1472
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.88941 29.27800 18.53 0
+OBJECT_SHARED Models/lib/SmHangar.ac -95.88477 29.27105 20.47 41.0762
+OBJECT_SHARED Models/lib/SmHangar.ac -95.88493 29.27121 18.48 40.6179
+OBJECT_SHARED Models/lib/prop_a.ac -95.88483 29.27100 18.53 218.157
+OBJECT_SHARED Models/lib/prop_a.ac -95.88498 29.27116 18.48 219.659
+# END dsf2stg
